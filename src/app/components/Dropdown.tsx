@@ -22,7 +22,7 @@ export function Dropdown({ cities, onClick, isSelectedCity, selectAll, deleteAll
                 cities.map((city) => {
                     return <p
                         key={city.id}
-                        className="flex items-center space-x-2 text-gray-700  px-4 py-2 text-sm hover:bg-slate-100"
+                         className="flex items-center space-x-2 text-gray-700  px-4 py-2 text-sm hover:bg-slate-100"
                         role="menuitem" id="menu-item-0"
                     >
                         <input
