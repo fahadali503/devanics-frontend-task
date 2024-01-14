@@ -1,5 +1,5 @@
 ---
-title: "[]{#_wxyh2fnos9sn .anchor}Frontend Web Development Assignment"
+Frontend Web Development Assignment
 ---
 
 # 
@@ -39,3 +39,9 @@ Functional Requirement
 For reference take a look into material ui autocomplete component
 
 https://mui.com/components/autocomplete/
+
+
+# OUTPUT
+
+<img width="845" alt="image" src="https://github.com/fahadali503/devanics-frontend-task/assets/85811874/bbe39757-e67d-4485-87c0-cbf3ef0043fe">
+
