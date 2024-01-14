@@ -43,5 +43,6 @@ https://mui.com/components/autocomplete/
 
 # OUTPUT
 
-<img width="845" alt="image" src="https://github.com/fahadali503/devanics-frontend-task/assets/85811874/bbe39757-e67d-4485-87c0-cbf3ef0043fe">
+<img width="806" alt="image" src="https://github.com/fahadali503/devanics-frontend-task/assets/85811874/51b40d2d-fe8b-4c6b-8d3e-d9bec81a4e8d">
+
 
