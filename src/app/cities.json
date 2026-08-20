@@ -1,0 +1,502 @@
+[
+    {
+      "id": "3041563",
+      "name": "Andorra la Vella",
+      "country": "AD"
+    },
+    {
+      "id": "3041519",
+      "name": "Arinsal",
+      "country": "AD"
+    },
+    {
+      "id": "3041204",
+      "name": "Canillo",
+      "country": "AD"
+    },
+    {
+      "id": "3039154",
+      "name": "El Tarter",
+      "country": "AD"
+    },
+    {
+      "id": "3040686",
+      "name": "Encamp",
+      "country": "AD"
+    },
+    {
+      "id": "3040141",
+      "name": "l'Aldosa",
+      "country": "AD"
+    },
+    {
+      "id": "3040132",
+      "name": "la Massana",
+      "country": "AD"
+    },
+    {
+      "id": "3040051",
+      "name": "les Escaldes",
+      "country": "AD"
+    },
+    {
+      "id": "3039678",
+      "name": "Ordino",
+      "country": "AD"
+    },
+    {
+      "id": "3039604",
+      "name": "Pas de la Casa",
+      "country": "AD"
+    },
+    {
+      "id": "3039163",
+      "name": "Sant Julià de Lòria",
+      "country": "AD"
+    },
+    {
+      "id": "3038999",
+      "name": "Soldeu",
+      "country": "AD"
+    },
+    {
+      "id": "292968",
+      "name": "Abu Dhabi",
+      "country": "AE"
+    },
+    {
+      "id": "292953",
+      "name": "Adh Dhayd",
+      "country": "AE"
+    },
+    {
+      "id": "292932",
+      "name": "Ajman City",
+      "country": "AE"
+    },
+    {
+      "id": "292913",
+      "name": "Al Ain City",
+      "country": "AE"
+    },
+    {
+      "id": "292878",
+      "name": "Al Fujairah City",
+      "country": "AE"
+    },
+    {
+      "id": "12047416",
+      "name": "Al Shamkhah City",
+      "country": "AE"
+    },
+    {
+      "id": "292688",
+      "name": "Ar Ruways",
+      "country": "AE"
+    },
+    {
+      "id": "12042052",
+      "name": "Bani Yas City",
+      "country": "AE"
+    },
+    {
+      "id": "292231",
+      "name": "Dibba Al-Fujairah",
+      "country": "AE"
+    },
+    {
+      "id": "292239",
+      "name": "Dibba Al-Hisn",
+      "country": "AE"
+    },
+    {
+      "id": "292223",
+      "name": "Dubai",
+      "country": "AE"
+    },
+    {
+      "id": "8057551",
+      "name": "Khalifah A City",
+      "country": "AE"
+    },
+    {
+      "id": "291696",
+      "name": "Khawr Fakkān",
+      "country": "AE"
+    },
+    {
+      "id": "291339",
+      "name": "Murbaḩ",
+      "country": "AE"
+    },
+    {
+      "id": "12042053",
+      "name": "Musaffah",
+      "country": "AE"
+    },
+    {
+      "id": "291279",
+      "name": "Muzayri‘",
+      "country": "AE"
+    },
+    {
+      "id": "291074",
+      "name": "Ras Al Khaimah City",
+      "country": "AE"
+    },
+    {
+      "id": "12047417",
+      "name": "Reef Al Fujairah City",
+      "country": "AE"
+    },
+    {
+      "id": "292672",
+      "name": "Sharjah",
+      "country": "AE"
+    },
+    {
+      "id": "290594",
+      "name": "Umm Al Quwain City",
+      "country": "AE"
+    },
+    {
+      "id": "291580",
+      "name": "Zayed City",
+      "country": "AE"
+    },
+    {
+      "id": "1149052",
+      "name": "‘Alāqahdārī Dīshū",
+      "country": "AF"
+    },
+    {
+      "id": "1127768",
+      "name": "Aībak",
+      "country": "AF"
+    },
+    {
+      "id": "1148709",
+      "name": "Anār Darah",
+      "country": "AF"
+    },
+    {
+      "id": "1148658",
+      "name": "Andkhōy",
+      "country": "AF"
+    },
+    {
+      "id": "1148390",
+      "name": "Arghestān",
+      "country": "AF"
+    },
+    {
+      "id": "1148106",
+      "name": "Ārt Khwājah",
+      "country": "AF"
+    },
+    {
+      "id": "1148311",
+      "name": "Asadābād",
+      "country": "AF"
+    },
+    {
+      "id": "1148268",
+      "name": "Ashkāsham",
+      "country": "AF"
+    },
+    {
+      "id": "1148205",
+      "name": "Āsmār",
+      "country": "AF"
+    },
+    {
+      "id": "1147540",
+      "name": "Baghlān",
+      "country": "AF"
+    },
+    {
+      "id": "1147290",
+      "name": "Balkh",
+      "country": "AF"
+    },
+    {
+      "id": "1147242",
+      "name": "Bāmyān",
+      "country": "AF"
+    },
+    {
+      "id": "1147066",
+      "name": "Baraki Barak",
+      "country": "AF"
+    },
+    {
+      "id": "1146822",
+      "name": "Bāsawul",
+      "country": "AF"
+    },
+    {
+      "id": "1429434",
+      "name": "Bāzārak",
+      "country": "AF"
+    },
+    {
+      "id": "1145866",
+      "name": "Chahār Burj",
+      "country": "AF"
+    },
+    {
+      "id": "1145352",
+      "name": "Charikar",
+      "country": "AF"
+    },
+    {
+      "id": "1144942",
+      "name": "Chīras",
+      "country": "AF"
+    },
+    {
+      "id": "1143874",
+      "name": "Darzāb",
+      "country": "AF"
+    },
+    {
+      "id": "1143838",
+      "name": "Dasht-e Archī",
+      "country": "AF"
+    },
+    {
+      "id": "8224058",
+      "name": "Deri Mila",
+      "country": "AF"
+    },
+    {
+      "id": "1142264",
+      "name": "Farah",
+      "country": "AF"
+    },
+    {
+      "id": "1142239",
+      "name": "Farkhār",
+      "country": "AF"
+    },
+    {
+      "id": "1145904",
+      "name": "Fayrōz Kōh",
+      "country": "AF"
+    },
+    {
+      "id": "1142170",
+      "name": "Fayzabad",
+      "country": "AF"
+    },
+    {
+      "id": "1141857",
+      "name": "Gardez",
+      "country": "AF"
+    },
+    {
+      "id": "1141540",
+      "name": "Gereshk",
+      "country": "AF"
+    },
+    {
+      "id": "1141269",
+      "name": "Ghazni",
+      "country": "AF"
+    },
+    {
+      "id": "1141089",
+      "name": "Ghormach",
+      "country": "AF"
+    },
+    {
+      "id": "1140026",
+      "name": "Herāt",
+      "country": "AF"
+    },
+    {
+      "id": "1147851",
+      "name": "Ḩukūmatī Azrah",
+      "country": "AF"
+    },
+    {
+      "id": "1144559",
+      "name": "Ḩukūmatī Dahanah-ye Ghōrī",
+      "country": "AF"
+    },
+    {
+      "id": "1142545",
+      "name": "Imām Şāḩib",
+      "country": "AF"
+    },
+    {
+      "id": "1139807",
+      "name": "Jabal os Saraj",
+      "country": "AF"
+    },
+    {
+      "id": "1139715",
+      "name": "Jalālābād",
+      "country": "AF"
+    },
+    {
+      "id": "1139085",
+      "name": "Jurm",
+      "country": "AF"
+    },
+    {
+      "id": "1138958",
+      "name": "Kabul",
+      "country": "AF"
+    },
+    {
+      "id": "1142404",
+      "name": "Kafir Qala",
+      "country": "AF"
+    },
+    {
+      "id": "1138336",
+      "name": "Kandahār",
+      "country": "AF"
+    },
+    {
+      "id": "1137807",
+      "name": "Karukh",
+      "country": "AF"
+    },
+    {
+      "id": "1137168",
+      "name": "Khanabad",
+      "country": "AF"
+    },
+    {
+      "id": "1137148",
+      "name": "Khandūd",
+      "country": "AF"
+    },
+    {
+      "id": "1136863",
+      "name": "Khāsh",
+      "country": "AF"
+    },
+    {
+      "id": "1136469",
+      "name": "Khōst",
+      "country": "AF"
+    },
+    {
+      "id": "1136575",
+      "name": "Khulm",
+      "country": "AF"
+    },
+    {
+      "id": "1120483",
+      "name": "Kuhsān",
+      "country": "AF"
+    },
+    {
+      "id": "1135689",
+      "name": "Kunduz",
+      "country": "AF"
+    },
+    {
+      "id": "1135158",
+      "name": "Kushk",
+      "country": "AF"
+    },
+    {
+      "id": "1465349",
+      "name": "Lab-Sar",
+      "country": "AF"
+    },
+    {
+      "id": "1134762",
+      "name": "Larkird",
+      "country": "AF"
+    },
+    {
+      "id": "1134720",
+      "name": "Lashkar Gāh",
+      "country": "AF"
+    },
+    {
+      "id": "1143901",
+      "name": "Markaz-e Ḩukūmat-e Darwēshān",
+      "country": "AF"
+    },
+    {
+      "id": "1469706",
+      "name": "Markaz-e Woluswalī-ye Āchīn",
+      "country": "AF"
+    },
+    {
+      "id": "1456960",
+      "name": "Maydanshakhr",
+      "country": "AF"
+    },
+    {
+      "id": "1133453",
+      "name": "Maymana",
+      "country": "AF"
+    },
+    {
+      "id": "1133616",
+      "name": "Mazār-e Sharīf",
+      "country": "AF"
+    },
+    {
+      "id": "1133574",
+      "name": "Mehtar Lām",
+      "country": "AF"
+    },
+    {
+      "id": "1133270",
+      "name": "Mīr Bachah Kōṯ",
+      "country": "AF"
+    },
+    {
+      "id": "1133310",
+      "name": "Mīrābād",
+      "country": "AF"
+    },
+    {
+      "id": "1132495",
+      "name": "Nahrīn",
+      "country": "AF"
+    },
+    {
+      "id": "1131316",
+      "name": "Paghmān",
+      "country": "AF"
+    },
+    {
+      "id": "1131162",
+      "name": "Panjāb",
+      "country": "AF"
+    },
+    {
+      "id": "1130469",
+      "name": "Pārūn",
+      "country": "AF"
+    },
+    {
+      "id": "1130497",
+      "name": "Pul-e ‘Alam",
+      "country": "AF"
+    },
+    {
+      "id": "1130490",
+      "name": "Pul-e Khumrī",
+      "country": "AF"
+    },
+    {
+      "id": "1130065",
+      "name": "Qal‘ah-ye Shahr",
+      "country": "AF"
+    },
+    {
+      "id": "1129867",
+      "name": "Qala i Naw",
+      "country": "AF"
+    }
+  ]
